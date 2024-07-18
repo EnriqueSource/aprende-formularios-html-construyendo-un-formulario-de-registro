@@ -16,7 +16,7 @@ Responsivo" de freeCodeCamp.
 > cambiar el diseño de tu página.
 > 
 >   "freeCodeCamp"
-> 
+
 > **Nota:** Un viewport representa la región poligonal (normalmente rectangular)
 > en gráficas de computación que está siendo visualizada en ese instante. En
 > términos de navegadores web, se refiere a la parte del documento que usted está
