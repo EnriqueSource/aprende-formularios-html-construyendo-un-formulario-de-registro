@@ -6,7 +6,7 @@ Responsivo" de freeCodeCamp.
 
 - - -
 
-[Enlace al Formulario](registration-form-bde.netlify.app/)
+[Enlace al Formulario](https://registration-form-bde.netlify.app/)
 
 - - -
 > **Nota:** Puedes hacer uso de formularios HTML para recopilar información de
