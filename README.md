@@ -15,7 +15,7 @@ Responsivo" de freeCodeCamp.
 > de datos pueden colocarse en tu formulario, y herramientas nuevas de CSS para
 > cambiar el diseño de tu página.
 > 
->   "freeCodeCamp"
+>   -- freeCodeCamp
 
 > **Nota:** Un viewport representa la región poligonal (normalmente rectangular)
 > en gráficas de computación que está siendo visualizada en ese instante. En
