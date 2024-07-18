@@ -56,6 +56,7 @@ Responsivo" de freeCodeCamp.
 
 -    Mediante el atributo `method` podemos enviar los datos con las solicitudes:
       
+    
     - `get` :  los datos se envían como parámetros dentro de la **URL**
       
     
