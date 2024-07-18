@@ -55,8 +55,11 @@ Responsivo" de freeCodeCamp.
   .
 
 -    Mediante el atributo `method` podemos enviar los datos con las solicitudes:
-      - `get` :  los datos se envían como parámetros dentro de la **URL**
-      - `post` : los datos son enviados en el **cuerpo** de la solicitud.
+      
+    - `get` :  los datos se envían como parámetros dentro de la **URL**
+      
+    
+    - `post` : los datos son enviados en el **cuerpo** de la solicitud.
 
 - Con el elemento `<fieldset>` agregamos diferentes secciones a nuestro
   formulario.
