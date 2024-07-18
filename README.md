@@ -15,7 +15,7 @@ Responsivo" de freeCodeCamp.
 > de datos pueden colocarse en tu formulario, y herramientas nuevas de CSS para
 > cambiar el diseño de tu página.
 > 
->   -- freeCodeCamp
+>   - freeCodeCamp
 
 > **Nota:** Un viewport representa la región poligonal (normalmente rectangular)
 > en gráficas de computación que está siendo visualizada en ese instante. En
@@ -24,7 +24,7 @@ Responsivo" de freeCodeCamp.
 > documento está siendo visto en modo pantalla completa). El contenido fuera del
 > viewport no es visible en la pantalla hasta que sea desplazado dentro de él.
 > 
->   — Mozilla Developer Network
+>   - Mozilla Developer Network
 
 - La unidad `vh` (viewport height) representa la altura de la ventana gráfica o `
   viewport` . Por defecto es igual al 1% de la altura del `viewport` . eso lo
