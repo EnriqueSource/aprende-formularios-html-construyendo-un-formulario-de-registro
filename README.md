@@ -150,8 +150,7 @@ Responsivo" de freeCodeCamp.
   usuario es mayor de edad o no.
 
 - Podemos añadir un menú desplegable al formulario con el elemento `<select>`
-  . El elemento `<select>` es un contenedor para un grupo de elementos `
-  <option>` . El elemento `<optio>` actúa como una etiqueta para cada
+  . El elemento `<select>` es un contenedor para un grupo de elementos `<option>` . El elemento `<option>` actúa como una etiqueta para cada
   opción desplegable.
 
 - Para la introducción de textos mas largos por parte del usuario, tenemos el
